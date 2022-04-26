@@ -10,11 +10,13 @@ Thank you for checking out what I am working on!
 
 ---
 
+init push
+
 -26 Apr 2022-
 
 Created repositories on GitHub and Bitbucket.
 
-Began organizing project and installing dependencies.
+Began organizing project and installing dependencies....
 
 ---
 
