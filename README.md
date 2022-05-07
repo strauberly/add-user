@@ -10,6 +10,12 @@ Thank you for checking out what I am working on!
 
 ---
 
+-7 May 2022-
+
+Application now stores and displays entered values.
+
+---
+
 -4 May 2022-
 
 Created users list component.
