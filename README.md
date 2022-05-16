@@ -2,11 +2,21 @@
 
 This project is part of a course study on React.js put together by Maximillian Schwarzmueller.
 
+It is a simplistic application that utilizes key concepts of React.js such as Components, props, lifting state and state management, styling, and passing functions between components.
+
 This README will serve as a dev journal at least until project is completed.
 
 Thank you for checking out what I am working on!
 
 ### Cheers!
+
+---
+
+-14 May 2022-
+
+Application now displays a modal window to display errors and toggles off by clicking on button or backdrop.
+
+This concludes this course studies development for the time being.
 
 ---
 
