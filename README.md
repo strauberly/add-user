@@ -12,6 +12,14 @@ Thank you for checking out what I am working on!
 
 ---
 
+-8 July 2022-
+
+- Completed lectures and implementation of fragments
+
+- Lectures and implementation of portals
+
+---
+
 -14 May 2022-
 
 Application now displays a modal window to display errors and toggles off by clicking on button or backdrop.
