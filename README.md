@@ -18,6 +18,8 @@ Thank you for checking out what I am working on!
 
 - Lectures and implementation of portals
 
+- Introduction to refs
+
 ---
 
 -14 May 2022-
